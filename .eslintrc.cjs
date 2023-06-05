@@ -10,5 +10,10 @@ module.exports = {
   ],
   parserOptions: {
     ecmaVersion: 'latest'
+  },
+  globals: {
+    tf: "readonly",
+    faceLandmarksDetection: "readonly",
+    faceMesh: "readonly"
   }
 }

@@ -14,8 +14,6 @@
  * limitations under the License.
  * =============================================================================
  */
-import * as faceMesh from '@mediapipe/face_mesh'
-import * as faceLandmarksDetection from '@tensorflow-models/face-landmarks-detection'
 
 export const NUM_KEYPOINTS = 468
 export const NUM_IRIS_KEYPOINTS = 5

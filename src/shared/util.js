@@ -14,8 +14,6 @@
  * limitations under the License.
  * =============================================================================
  */
-import * as faceLandmarksDetection from '@tensorflow-models/face-landmarks-detection'
-import * as tf from '@tensorflow/tfjs-core'
 
 import {
   GREEN,

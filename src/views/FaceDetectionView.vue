@@ -1,7 +1,6 @@
 <script setup>
 import { onMounted } from 'vue'
 
-import * as faceLandmarksDetection from '@tensorflow-models/face-landmarks-detection'
 import * as util from '../shared/util'
 
 // declare the canvas variable and setting up the context
